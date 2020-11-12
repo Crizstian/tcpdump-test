@@ -1,0 +1,10 @@
+2020-11-10 13:46:17,762 DEBUG    root            Loaded Command Group: [u'gcloud', u'beta', u'compute']
+2020-11-10 13:46:17,820 DEBUG    root            Loaded Command Group: [u'gcloud', u'beta', u'compute', u'ssh']
+2020-11-10 13:46:17,823 DEBUG    root            Running [gcloud.beta.compute.ssh] with arguments: [--project: "amiable-bridge-163115", --zone: "us-central1-c", [USER@]INSTANCE: "app-petngo"]
+2020-11-10 13:46:17,965 WARNING  root            The public SSH key file for gcloud does not exist.
+2020-11-10 13:46:17,965 WARNING  root            The private SSH key file for gcloud does not exist.
+2020-11-10 13:46:17,965 WARNING  root            You do not have an SSH key for gcloud.
+2020-11-10 13:46:17,966 WARNING  root            SSH keygen will be executed to generate a key.
+2020-11-10 13:46:17,966 DEBUG    root            Running command [/usr/bin/ssh-keygen -t rsa -f /home/cristian_ramirez/.ssh/google_compute_engine].
+2020-11-10 13:46:17,966 DEBUG    root            Executing command: [u'/usr/bin/ssh-keygen', u'-t', u'rsa', u'-f', u'/home/cristian_ramirez/.ssh/google_compute_engine']
+2020-11-10 13:46:21,612 DEBUG    root            Subprocess [13648] got [2]

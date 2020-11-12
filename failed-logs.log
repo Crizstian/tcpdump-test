@@ -1,0 +1,68 @@
+[30-Sep-2020 00:25:04] WARNING: [pool default] child 14104, script '/srv/tacobit/app/public/fetch/cronjobs/all_work.php' (request: "GET /fetch/cronjobs/all_work.php") executing too slow (3.663452 sec), logging
+
+
+[30-Sep-2020 01:15:03] ERROR: failed to ptrace(ATTACH) child 14273: Operation not permitted (1)
+[30-Sep-2020 01:15:03] WARNING: [pool default] child 14273, script '/srv/tacobit/app/public/fetch/cronjobs/all_work.php' (request: "GET /fetch/cronjobs/all_work.php") executing too slow (3.248775 sec), logging
+[30-Sep-2020 01:19:50] ERROR: failed to ptrace(ATTACH) child 14287: Operation not permitted (1)
+[30-Sep-2020 01:19:50] WARNING: [pool default] child 14287, script '/srv/tacobit/app/public/fetch/ws/mercado_libre.php' (request: "POST /fetch/ws/mercado_libre.php") executing too slow (3.827899 sec), logging
+[30-Sep-2020 01:19:54] ERROR: failed to ptrace(ATTACH) child 14290: Operation not permitted (1)
+[30-Sep-2020 01:19:54] WARNING: [pool default] child 14290, script '/srv/tacobit/app/public/fetch/ws/mercado_libre.php' (request: "POST /fetch/ws/mercado_libre.php") executing too slow (3.808934 sec), logging
+[30-Sep-2020 01:20:01] ERROR: failed to ptrace(ATTACH) child 14293: Operation not permitted (1)
+[30-Sep-2020 01:20:01] WARNING: [pool default] child 14293, script '/srv/tacobit/app/public/fetch/ws/mercado_libre.php' (request: "POST /fetch/ws/mercado_libre.php") executing too slow (3.879374 sec), logging
+
+
+
+[30-Oct-2020 00:00:03] ERROR: failed to ptrace(ATTACH) child 15442: Operation not permitted (1)
+[30-Oct-2020 00:00:03] WARNING: [pool default] child 15442, script '/srv/tacobit/app/public/fetch/cronjobs/facturas.php' (request: "POST /fetch/cronjobs/facturas.php") executing too slow (3.010890 sec), logging
+[30-Oct-2020 00:00:03] ERROR: failed to ptrace(ATTACH) child 15441: Operation not permitted (1)
+[30-Oct-2020 00:00:03] WARNING: [pool default] child 15441, script '/srv/tacobit/app/public/fetch/cronjobs/all_work.php' (request: "GET /fetch/cronjobs/all_work.php") executing too slow (3.121763 sec), logging
+[30-Oct-2020 00:00:03] ERROR: failed to ptrace(ATTACH) child 15438: Operation not permitted (1)
+[30-Oct-2020 00:00:03] WARNING: [pool default] child 15438, script '/srv/tacobit/app/public/fetch/cronjobs/get_engagements.php' (request: "GET /fetch/cronjobs/get_engagements.php") executing too slow (3.231595 sec), logging
+[30-Oct-2020 00:00:04] ERROR: failed to ptrace(ATTACH) child 15446: Operation not permitted (1)
+[30-Oct-2020 00:00:04] WARNING: [pool default] child 15446, script '/srv/tacobit/app/public/fetch/cronjobs/tracking_sentinel.php' (request: "POST /fetch/cronjobs/tracking_sentinel.php") executing too slow (3.845051 sec), logging
+[30-Oct-2020 00:00:12] ERROR: failed to ptrace(ATTACH) child 15439: Operation not permitted (1)
+[30-Oct-2020 00:00:12] WARNING: [pool default] child 15439, script '/srv/tacobit/app/public/fetch/works/meli_microsip.php' (request: "POST /fetch/works/meli_microsip.php") executing too slow (3.611442 sec), logging
+[30-Oct-2020 00:00:12] ERROR: failed to ptrace(ATTACH) child 15438: Operation not permitted (1)
+[30-Oct-2020 00:00:12] WARNING: [pool default] child 15438, script '/srv/tacobit/app/public/fetch/works/facturar_melis.php' (request: "POST /fetch/works/facturar_melis.php") executing too slow (3.518880 sec), logging
+
+
+[09-Nov-2020 08:50:12] ERROR: failed to ptrace(ATTACH) child 1047: Operation not permitted (1)
+[09-Nov-2020 08:50:12] WARNING: [pool default] child 1047, script '/srv/tacobit/app/public/fetch/works/facturar_melis.php' (request: "POST /fetch/works/facturar_melis.php") executing too slow (3.427323 sec), logging
+[09-Nov-2020 08:50:12] ERROR: failed to ptrace(ATTACH) child 1041: Operation not permitted (1)
+[09-Nov-2020 08:50:12] WARNING: [pool default] child 1041, script '/srv/tacobit/app/public/fetch/works/meli_microsip.php' (request: "POST /fetch/works/meli_microsip.php") executing too slow (3.587680 sec), logging
+[09-Nov-2020 08:54:26] ERROR: failed to ptrace(ATTACH) child 1058: Operation not permitted (1)
+[09-Nov-2020 08:54:26] WARNING: [pool default] child 1058, script '/srv/tacobit/app/public/fetch/ws/mercado_libre.php' (request: "POST /fetch/ws/mercado_libre.php") executing too slow (3.507403 sec), logging
+[09-Nov-2020 08:54:28] ERROR: failed to ptrace(ATTACH) child 1064: Operation not permitted (1)
+[09-Nov-2020 08:54:28] WARNING: [pool default] child 1064, script '/srv/tacobit/app/public/fetch/ws/mercado_libre.php' (request: "POST /fetch/ws/mercado_libre.php") executing too slow (3.876907 sec), logging
+[09-Nov-2020 08:54:36] ERROR: failed to ptrace(ATTACH) child 1061: Operation not permitted (1)
+[09-Nov-2020 08:54:36] WARNING: [pool default] child 1061, script '/srv/tacobit/app/public/fetch/ws/mercado_libre.php' (request: "POST /fetch/ws/mercado_libre.php") executing too slow (3.413835 sec), logging
+[09-Nov-2020 08:54:40] ERROR: failed to ptrace(ATTACH) child 1067: Operation not permitted (1)
+[09-Nov-2020 08:54:40] WARNING: [pool default] child 1067, script '/srv/tacobit/app/public/fetch/ws/mercado_libre.php' (request: "POST /fetch/ws/mercado_libre.php") executing too slow (3.460503 sec), logging
+
+
+[12-Nov-2020 00:00:03] ERROR: failed to ptrace(ATTACH) child 5158: Operation not permitted (1)
+[12-Nov-2020 00:00:03] WARNING: [pool default] child 5158, script '/srv/tacobit/app/public/fetch/cronjobs/all_work.php' (request: "GET /fetch/cronjobs/all_work.php") executing too slow (3.431792 sec), logging
+[12-Nov-2020 00:00:03] ERROR: failed to ptrace(ATTACH) child 5155: Operation not permitted (1)
+[12-Nov-2020 00:00:03] WARNING: [pool default] child 5155, script '/srv/tacobit/app/public/fetch/cronjobs/facturas.php' (request: "POST /fetch/cronjobs/facturas.php") executing too slow (3.618087 sec), logging
+[12-Nov-2020 00:00:04] ERROR: failed to ptrace(ATTACH) child 5157: Operation not permitted (1)
+[12-Nov-2020 00:00:04] WARNING: [pool default] child 5157, script '/srv/tacobit/app/public/fetch/cronjobs/tracking_sentinel.php' (request: "POST /fetch/cronjobs/tracking_sentinel.php") executing too slow (3.890167 sec), logging
+[12-Nov-2020 00:00:23] ERROR: failed to ptrace(ATTACH) child 5154: Operation not permitted (1)
+[12-Nov-2020 00:00:23] WARNING: [pool default] child 5154, script '/srv/tacobit/app/public/fetch/works/meli_microsip.php' (request: "POST /fetch/works/meli_microsip.php") executing too slow (3.864150 sec), logging
+[12-Nov-2020 00:00:55] ERROR: failed to ptrace(ATTACH) child 5154: Operation not permitted (1)
+[12-Nov-2020 00:00:55] WARNING: [pool default] child 5154, script '/srv/tacobit/app/public/fetch/works/tracking_sentinel_work.php' (request: "POST /fetch/works/tracking_sentinel_work.php") executing too slow (3.413937 sec), logging
+[12-Nov-2020 00:01:23] ERROR: failed to ptrace(ATTACH) child 5158: Operation not permitted (1)
+[12-Nov-2020 00:01:23] WARNING: [pool default] child 5158, script '/srv/tacobit/app/public/fetch/works/read_pedidos_cancelados.php' (request: "POST /fetch/works/read_pedidos_cancelados.php") executing too slow (3.385298 sec), logging
+[12-Nov-2020 00:01:25] ERROR: failed to ptrace(ATTACH) child 5157: Operation not permitted (1)
+[12-Nov-2020 00:01:25] WARNING: [pool default] child 5157, script '/srv/tacobit/app/public/fetch/works/tracking_sentinel_whatsapp.php' (request: "POST /fetch/works/tracking_sentinel_whatsapp.php") executing too slow (3.740026 sec), logging
+[12-Nov-2020 00:01:47] ERROR: failed to ptrace(ATTACH) child 5158: Operation not permitted (1)
+[12-Nov-2020 00:01:47] WARNING: [pool default] child 5158, script '/srv/tacobit/app/public/fetch/ws/mercado_libre.php' (request: "POST /fetch/ws/mercado_libre.php") executing too slow (3.668463 sec), logging
+[12-Nov-2020 00:01:48] ERROR: failed to ptrace(ATTACH) child 5154: Operation not permitted (1)
+[12-Nov-2020 00:01:48] WARNING: [pool default] child 5154, script '/srv/tacobit/app/public/fetch/ws/mercado_libre.php' (request: "POST /fetch/ws/mercado_libre.php") executing too slow (3.073206 sec), logging
+[12-Nov-2020 00:01:55] ERROR: failed to ptrace(ATTACH) child 5157: Operation not permitted (1)
+[12-Nov-2020 00:01:55] WARNING: [pool default] child 5157, script '/srv/tacobit/app/public/fetch/ws/mercado_libre.php' (request: "POST /fetch/ws/mercado_libre.php") executing too slow (3.568950 sec), logging
+[12-Nov-2020 00:02:47] ERROR: failed to ptrace(ATTACH) child 5181: Operation not permitted (1)
+[12-Nov-2020 00:02:47] WARNING: [pool default] child 5181, script '/srv/tacobit/app/public/fetch/cronjobs/facturas_tarimas.php' (request: "POST /fetch/cronjobs/facturas_tarimas.php") executing too slow (3.374630 sec), logging
+[12-Nov-2020 00:03:47] ERROR: failed to ptrace(ATTACH) child 5191: Operation not permitted (1)
+[12-Nov-2020 00:03:47] WARNING: [pool default] child 5191, script '/srv/tacobit/app/public/fetch/cronjobs/facturacion_meli.php' (request: "POST /fetch/cronjobs/facturacion_meli.php") executing too slow (3.420853 sec), logging
+
+
